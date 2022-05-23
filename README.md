@@ -8,7 +8,7 @@ Tạo nhánh master-<nickname> ví dụ master-giapnt​
   
 Sửa nội dung sample1.txt với nội dung tuỳ ý và thực hiện commit file sample1.txt​
   
-Thực hiện merge nhánh master về nhánh master-<nickname> trên local
+Thực hiện merge nhánh master-giapnt về nhánh master-<nickname> trên local
 (Có thể xảy ra conflict & non-fast-forward)​
   
 Tạo và commit file sample2.txt với nội dung sau:​
