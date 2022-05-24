@@ -1,2 +1,5 @@
 Đây là nội dung sample 1, hãy sửa tuỳ ý
 Sửa ver.2 tại đây ngày 24/05/2022
+giapnt - Đây là nội dung của nhánh giapnt sửa
+giapnt - Nếu xảy ra confict, hãy chèn nội dung của bạn trước nội dung giapnt này
+
